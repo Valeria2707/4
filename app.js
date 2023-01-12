@@ -1,1 +1,2 @@
-console.log(300);
+console.log(30);
+console.log(nmsdcbfj);
